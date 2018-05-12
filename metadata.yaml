@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33401'
     url: http://www.gutenberg.org/2009/agents/33401
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28555#The-Virginia-Company-Of-London-1606-1624
 gutenberg_issued: '2009-04-11'
 gutenberg_type: Text
 identifiers:
